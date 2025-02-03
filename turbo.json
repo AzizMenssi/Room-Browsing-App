@@ -1,0 +1,18 @@
+{
+  "tasks": {
+    "build": {
+      "dependsOn": [
+        "^build"
+      ]
+    },
+    "dev": {
+      "cache": false
+    },
+    "test": {
+      "dependsOn": [
+        "^test"
+      ],
+      "outputs": []
+    }
+  }
+}
