@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "name": "Deluxe Suite",
+    "type": "Suite",
+    "price": 150,
+    "currency": "USD",
+    "availability": true,
+    "description": "A spacious suite with a king-size bed, private balcony, and sea view.",
+    "features": {
+        "bedType": "King",
+        "maxOccupancy": 3,
+        "wifi": true,
+        "airConditioning": true,
+        "tv": true,
+        "minibar": true
+    },
+    "images": [
+        "https://live.staticflickr.com/8324/8147794924_292179506c_b.jpg",
+        "https://live.staticflickr.com/7028/13973728654_90846aedb0_z.jpg"
+    ]
+}
